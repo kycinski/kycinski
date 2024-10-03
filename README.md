@@ -9,12 +9,12 @@ both professionally and personally. My goal is to leverage my expertise and
 enthusiasm to tackle new challenges and make meaningful contributions to
 innovative ventures.
 
-- 🔭 I’m currently working on my biggest Flutter project - Receipt Plus / Paragon Plus
+- 🔭 I’m currently working on my biggest Flutter project - Receipt Plus / Paragon Plus - ask me on Interview😉
 - 🌱 I’m currently learning Swift
 - ⚡ Mastering Flutter
 
 
-Flutter | Dart | Riverpod | Provider | SQL | Firebase | Freezed | SharedPreferences | flutter_map | Localizations | GetIt | Hive | Google's ML Kit Text Recognition
+Flutter | Dart | Riverpod | Provider | SQL | Firebase | Freezed | SharedPreferences | flutter_map | GoRouter | Localizations | GetIt | Hive | Google's ML Kit Text Recognition
 
 <!--
 **kycinski/kycinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
